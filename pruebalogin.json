@@ -1,0 +1,18 @@
+{
+  "datoslogin": [
+    {
+      "idusuario": "001",
+      "nombres": "JOSE DANIEL SUAREZ",
+      "usuario": "josenadiel001",
+      "pass": "12345",
+      "imagen": ""
+    },
+    {
+      "idusuario": "002",
+      "nombres": "MARIA PEREZ",
+      "usuario": "mariaperez002",
+      "pass": "12345",
+      "imagen": ""
+    }
+  ]
+}
